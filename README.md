@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=danielAmazonas&color=brightgreen)
+
 # Intalação do Live Helper Chat - LHC:
 
 Para efetuar uma nova instalação de forma automática, é necessário:
