@@ -24,7 +24,7 @@ O `docker-compose.yml` está montando os seguintes volumes, e utilizando a porta
 - `./html:/var/www/html`
 - `./logs:/var/log/`
 
-É acessar `http://localhost:8002` para concluir a instalação. É necessário a criação de uma base de dados `MySQL` para prosseguir.
+É preciso acessar o endereço `http://localhost:8002` para concluir a instalação. É necessário a criação de uma base de dados `MySQL` para prosseguir.
 
 ## Segue a estrutura do `docker-compose.yml`:
 
