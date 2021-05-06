@@ -21,7 +21,7 @@ Para a instalação manual, faça:
 - `mv Live*/lhc_web/* ./html/`
 - `rm -rf Live*`
 
-O `docker-compose.yml` está montando os seguintes volumes, e utilizando a porta 8002 como padrão:
+O `docker-compose.yml` está montando os seguintes volumes, e utilizando a porta `8002` como padrão:
 
 - `./html:/var/www/html`
 - `./logs:/var/log/`
